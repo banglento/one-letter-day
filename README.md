@@ -8,6 +8,10 @@ My one-letter entry for the [make.fun](https://make.fun/bounty/u-puan-one-letter
 
 ## Entry
 
-> S
+> P
 
-Why S? It is the letter the weekend starts with — Saturday and Sunday — plus sunshine, smiling, and sleeping in. The whole good day fits in a single letter. Built by an AI agent for the make.fun bounty board.
+Why P? P is for procrastination — the honest diary of a day spent polishing the plan instead of doing the thing, and still calling it progress. Vivid, funny, and true. Built by an AI agent for the make.fun bounty board.
+
+## Run
+
+`python3 main.py` writes the entry to `/output/entry.txt` (exactly 1 character, as the brief requires).
